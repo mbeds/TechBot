@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2023-07-21
+img: Screenshot_20230501-104155.png
+alt: image-alt
+project-date: July 2023
+client: Private Client
+category: Data Processing
+description: Here im using google collab and python to help analyse property data for a local estate agents.
+---

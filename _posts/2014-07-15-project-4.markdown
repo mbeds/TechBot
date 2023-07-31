@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2023-07-15
+img: 4-03-13.png
+alt: image-alt
+project-date: July 23
+client: Private Client
+category: AI Training
+description: Here i am using google collab to train GPT2 on XSS Attacks to help detect and prevent similar attacks, for use in a web application firewall.
+---

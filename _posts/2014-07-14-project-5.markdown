@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2023-07-14
+img: IMG_20230620_085931_969.jpg
+alt: image-alt
+project-date: May 2023
+client: Private Client
+category: VoIP Chatbot
+description: Here I am using twilio API to demonstrate to a client how to create VoIP Call bots, that will offer a menu using speech synthesis and speech recognition.
+---

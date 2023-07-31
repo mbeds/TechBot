@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2023-07-15
+img: 11-01-25.png
+alt: image-alt
+project-date: July 2023
+client: Personal
+category: GUI
+description: I love commandline, sometimes I find it is easier to work from commandline than using a mouse, this is how sometimes I like my setup.
+---

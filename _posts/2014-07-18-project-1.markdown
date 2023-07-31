@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-07-30
+img: IMG-20230608-WA0001.jpg
+alt: image-alt
+project-date: June 2023
+client: Current Client
+category: Web Development
+description: Graph database development with neo4j, here im building a database to connect properties in uk with their energy performance certificates and recommendations to help with lead generation for epc assessment services and upgrades.
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2023-07-31
+img: 14-54-07.png
+alt: image-alt
+project-date: August 2023
+client: Client
+category: Botpress development
+description: Here I am building a chatbot for epc assessment services, that can help users with queries and find useful information, i trained the knowledgebase on UK government data which includes information on the various grants available.
+---
